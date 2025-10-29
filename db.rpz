@@ -1,10 +1,10 @@
 $TTL 1h
 @   IN  SOA localhost. root.localhost. (
-        2025102551       ; serial
-        1h      ; refresh
-        15m     ; retry
-        30d     ; expire
-        1h )    ; Minimum
+        2025102919       ; serial
+        1h               ; refresh
+        15m              ; retry
+        30d              ; expire
+        1h )             ; Minimum
 @   IN  NS  localhost.
 
 ; Bloqueos RPZ
