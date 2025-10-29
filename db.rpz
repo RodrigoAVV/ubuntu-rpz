@@ -8,7 +8,100 @@ $TTL 1h
 @   IN  NS  localhost.
 
 ; Bloqueos RPZ
-tiktok.com.rpz.         CNAME   .
-*.tiktok.com.rpz.       CNAME   .
-twitch.tv.rpz.			CNAME   .
-*.twitch.tv.rpz.		CNAME   .
+tiktok.com.rpz.                CNAME .
+*.tiktok.com.rpz.              CNAME .
+poki.com.rpz.                  CNAME .
+*.poki.com.rpz.                CNAME .
+
+twitch.tv.rpz.                 CNAME .
+*.twitch.tv.rpz.               CNAME .
+
+roblox.com.rpz.                CNAME .
+*.roblox.com.rpz.              CNAME .
+
+minijuegos.com.rpz.            CNAME .
+*.minijuegos.com.rpz.          CNAME .
+
+leagueofgraphs.com.rpz.        CNAME .
+*.leagueofgraphs.com.rpz.      CNAME .
+
+agar.io.rpz.                   CNAME .
+*.agar.io.rpz.                 CNAME .
+
+store.steampowered.com.rpz.    CNAME .
+*.store.steampowered.com.rpz.  CNAME .
+
+fallout.bethesda.net.rpz.      CNAME .
+*.fallout.bethesda.net.rpz.    CNAME .
+
+brawlhalla.com.rpz.            CNAME .
+*.brawlhalla.com.rpz.          CNAME .
+
+minecraft.net.rpz.             CNAME .
+*.minecraft.net.rpz.           CNAME .
+
+eneba.com.rpz.                 CNAME .
+*.eneba.com.rpz.               CNAME .
+
+snokido.com.rpz.               CNAME .
+*.snokido.com.rpz.             CNAME .
+
+battlylauncher.com.rpz.        CNAME .
+*.battlylauncher.com.rpz.      CNAME .
+
+skmedix.pl.rpz.                CNAME .
+*.skmedix.pl.rpz.              CNAME .
+
+curseforge.com.rpz.            CNAME .
+*.curseforge.com.rpz.          CNAME .
+
+aternos.org.rpz.               CNAME .
+*.aternos.org.rpz.             CNAME .
+
+haxball.com.rpz.               CNAME .
+*.haxball.com.rpz.             CNAME .
+
+tetr.io.rpz.                   CNAME .
+*.tetr.io.rpz.                 CNAME .
+
+slither.io.rpz.                CNAME .
+*.slither.io.rpz.              CNAME .
+
+smashkarts.io.rpz.             CNAME .
+*.smashkarts.io.rpz.           CNAME .
+
+apes.io.rpz.                   CNAME .
+*.apes.io.rpz.                 CNAME .
+
+1001juegos.com.rpz.            CNAME .
+*.1001juegos.com.rpz.          CNAME .
+
+juegos.com.rpz.                CNAME .
+*.juegos.com.rpz.              CNAME .
+
+cartoonnetwork.com.rpz.        CNAME .
+*.cartoonnetwork.com.rpz.      CNAME .
+
+isladejuegos.com.rpz.          CNAME .
+*.isladejuegos.com.rpz.        CNAME .
+
+mundodeportivo.com.rpz.        CNAME .
+*.mundodeportivo.com.rpz.      CNAME .
+
+repuls.io.rpz.                 CNAME .
+*.repuls.io.rpz.               CNAME .
+
+tanksmith.io.rpz.              CNAME .
+*.tanksmith.io.rpz.            CNAME .
+
+minecrafteo.com.rpz.           CNAME .
+*.minecrafteo.com.rpz.         CNAME .
+
+tlauncher.org.rpz.             CNAME .
+*.tlauncher.org.rpz.           CNAME .
+
+friv.com.rpz.                  CNAME .
+*.friv.com.rpz.                CNAME .
+
+juegosonline.com.rpz.          CNAME .
+*.juegosonline.com.rpz.        CNAME .
