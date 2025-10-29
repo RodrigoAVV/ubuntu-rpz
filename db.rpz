@@ -130,9 +130,6 @@ newgrounds.com.rpz.            CNAME .
 nitrome.com.rpz.               CNAME .
 *.nitrome.com.rpz.             CNAME .
 
-youtube.com.rpz.               CNAME .
-*.youtube.com.rpz.             CNAME .
-
 netflix.com.rpz.               CNAME .
 *.netflix.com.rpz.             CNAME .
 
@@ -190,7 +187,6 @@ thepiratebay.org.rpz.          CNAME .
 rutracker.org.rpz.             CNAME .
 *.rutracker.org.rpz.           CNAME .
 
-; Redes Sociales y Chat
 twitter.com.rpz.               CNAME .
 *.twitter.com.rpz.             CNAME .
 
@@ -203,7 +199,6 @@ telegram.org.rpz.              CNAME .
 whatsapp.com.rpz.              CNAME .
 *.whatsapp.com.rpz.            CNAME .
 
-; Sitios de Anime/Series
 crunchyroll.com.rpz.           CNAME .
 *.crunchyroll.com.rpz.         CNAME .
 
@@ -213,7 +208,6 @@ animelab.com.rpz.              CNAME .
 9anime.to.rpz.                 CNAME .
 *.9anime.to.rpz.               CNAME .
 
-; Apuestas y Casino
 bet365.com.rpz.                CNAME .
 *.bet365.com.rpz.              CNAME .
 
@@ -240,3 +234,148 @@ marca.com.rpz.                 CNAME .
 
 as.com.rpz.                    CNAME .
 *.as.com.rpz.                  CNAME .
+
+roblox.com.rpz.                CNAME .
+*.roblox.com.rpz.              CNAME .
+
+rbxcdn.com.rpz.                CNAME .
+*.rbxcdn.com.rpz.              CNAME .
+
+robloxlabs.com.rpz.            CNAME .
+*.robloxlabs.com.rpz.          CNAME .
+
+wearedevs.net.rpz.             CNAME .
+*.wearedevs.net.rpz.           CNAME .
+
+synapse.to.rpz.                CNAME .
+*.synapse.to.rpz.              CNAME .
+
+krnl.ca.rpz.                   CNAME .
+*.krnl.ca.rpz.                 CNAME .
+
+scriptblox.com.rpz.            CNAME .
+*.scriptblox.com.rpz.          CNAME .
+
+v3rmillion.net.rpz.            CNAME .
+*.v3rmillion.net.rpz.          CNAME .
+
+robloxscripts.com.rpz.         CNAME .
+*.robloxscripts.com.rpz.       CNAME .
+
+free-robux.com.rpz.            CNAME .
+*.free-robux.com.rpz.          CNAME .
+
+robuxgenerator.com.rpz.        CNAME .
+*.robuxgenerator.com.rpz.      CNAME .
+
+minecraft.net.rpz.             CNAME .
+*.minecraft.net.rpz.           CNAME .
+
+tlauncher.org.rpz.             CNAME .
+*.tlauncher.org.rpz.           CNAME .
+
+salwyrr.com.rpz.               CNAME .
+*.salwyrr.com.rpz.             CNAME .
+
+sklauncher.com.rpz.            CNAME .
+*.sklauncher.com.rpz.          CNAME .
+
+minecraft-launcher.org.rpz.    CNAME .
+*.minecraft-launcher.org.rpz.  CNAME .
+
+curseforge.com.rpz.            CNAME .
+*.curseforge.com.rpz.          CNAME .
+
+planetminecraft.com.rpz.       CNAME .
+*.planetminecraft.com.rpz.     CNAME .
+
+minecraftsix.com.rpz.          CNAME .
+*.minecraftsix.com.rpz.        CNAME .
+
+minecraftmods.com.rpz.         CNAME .
+*.minecraftmods.com.rpz.       CNAME .
+
+9minecraft.net.rpz.            CNAME .
+*.9minecraft.net.rpz.          CNAME .
+
+minecraft-resourcepacks.com.rpz. CNAME .
+*.minecraft-resourcepacks.com.rpz. CNAME .
+
+; Servidores pirata de Minecraft
+minecrafteo.com.rpz.           CNAME .
+*.minecrafteo.com.rpz.         CNAME .
+
+minecraftfull.com.rpz.         CNAME .
+*.minecraftfull.com.rpz.       CNAME .
+
+minecraftdescarga.com.rpz.     CNAME .
+*.minecraftdescarga.com.rpz.   CNAME .
+
+leagueoflegends.com.rpz.       CNAME .
+*.leagueoflegends.com.rpz.     CNAME .
+
+riotgames.com.rpz.             CNAME .
+*.riotgames.com.rpz.           CNAME .
+
+leagueofgraphs.com.rpz.        CNAME .
+*.leagueofgraphs.com.rpz.      CNAME .
+
+op.gg.rpz.                     CNAME .
+*.op.gg.rpz.                   CNAME .
+
+blitz.gg.rpz.                  CNAME .
+*.blitz.gg.rpz.                CNAME .
+
+porofessor.gg.rpz.             CNAME .
+*.porofessor.gg.rpz.           CNAME .
+
+u.gg.rpz.                      CNAME .
+*.u.gg.rpz.                    CNAME .
+
+mobalytics.gg.rpz.             CNAME .
+*.mobalytics.gg.rpz.           CNAME .
+
+leaguescript.com.rpz.          CNAME .
+*.leaguescript.com.rpz.        CNAME .
+
+lolscript.org.rpz.             CNAME .
+*.lolscript.org.rpz.           CNAME .
+
+leaguehacks.com.rpz.           CNAME .
+*.leaguehacks.com.rpz.         CNAME .
+
+lolskin.net.rpz.               CNAME .
+*.lolskin.net.rpz.             CNAME .
+
+playerauctions.com.rpz.        CNAME .
+*.playerauctions.com.rpz.      CNAME .
+
+g2g.com.rpz.                   CNAME .
+*.g2g.com.rpz.                 CNAME .
+
+eldorado.gg.rpz.               CNAME .
+*.eldorado.gg.rpz.             CNAME .
+
+accountwarehouse.com.rpz.      CNAME .
+*.accountwarehouse.com.rpz.    CNAME .
+
+gamejolt.com.rpz.              CNAME .
+*.gamejolt.com.rpz.            CNAME .
+
+itch.io.rpz.                   CNAME .
+*.itch.io.rpz.                 CNAME .
+
+moddb.com.rpz.                 CNAME .
+*.moddb.com.rpz.               CNAME .
+
+nexusmods.com.rpz.             CNAME .
+*.nexusmods.com.rpz.           CNAME .
+
+tracker.gg.rpz.                CNAME .
+*.tracker.gg.rpz.              CNAME .
+
+wol.gg.rpz.                    CNAME .
+*.wol.gg.rpz.                  CNAME .
+
+lolchess.gg.rpz.               CNAME .
+*.lolchess.gg.rpz.             CNAME .
