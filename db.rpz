@@ -8,11 +8,11 @@ $TTL 1h
 @   IN  NS  localhost.
 
 ; Bloqueos RPZ
-facebook.com.       CNAME   .
-*.facebook.com.     CNAME   .
-youtube.com.        CNAME   .
-*.youtube.com.      CNAME   .
-tiktok.com.         CNAME   .
-*.tiktok.com.       CNAME   .
-twitch.tv			CNAME   .
-*.twitch.tv			CNAME   .
+facebook.com.rpz.       CNAME   .
+*.facebook.com.rpz.     CNAME   .
+youtube.com.rpz.        CNAME   .
+*.youtube.com.rpz.      CNAME   .
+tiktok.com.rpz.         CNAME   .
+*.tiktok.com.rpz.       CNAME   .
+twitch.tv.rpz.			CNAME   .
+*.twitch.tv.rpz.		CNAME   .
