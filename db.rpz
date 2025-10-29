@@ -1,6 +1,6 @@
 $TTL 1h
 @   IN  SOA localhost. root.localhost. (
-        2025102937  ; serial
+        2025102946  ; serial
         1h          ; refresh
         15m         ; retry
         30d         ; expire
