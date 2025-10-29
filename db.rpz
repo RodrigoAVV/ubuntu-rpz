@@ -1,6 +1,6 @@
 $TTL 1h
 @   IN  SOA localhost. root.localhost. (
-        2025102926       ; serial
+        2025102948       ; serial
         1h               ; refresh
         15m              ; retry
         30d              ; expire
@@ -8,9 +8,10 @@ $TTL 1h
 @   IN  NS  localhost.
 
 ; Bloqueos RPZ
-facebook.com.         CNAME   .
-*.facebook.com.       CNAME   .
-tiktok.com.           CNAME   .
-*.tiktok.com.         CNAME   .
-twitch.tv.            CNAME   .
-*.twitch.tv.          CNAME   .
+facebook.com.           CNAME   .
+*.facebook.com.         CNAME   .
+tiktok.com.             CNAME   .
+*.tiktok.com.           CNAME   .
+twitch.tv.              CNAME   .
+www.twitch.tv.          CNAME   .
+*.twitch.tv.            CNAME   .
