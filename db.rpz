@@ -1,6 +1,6 @@
 $TTL 1h
 @   IN  SOA localhost. root.localhost. (
-        2025102957  ; serial
+        2025111959  ; serial
         1h          ; refresh
         15m         ; retry
         30d         ; expire
@@ -195,9 +195,6 @@ reddit.com.rpz.                CNAME .
 
 telegram.org.rpz.              CNAME .
 *.telegram.org.rpz.            CNAME .
-
-whatsapp.com.rpz.              CNAME .
-*.whatsapp.com.rpz.            CNAME .
 
 crunchyroll.com.rpz.           CNAME .
 *.crunchyroll.com.rpz.         CNAME .
