@@ -376,3 +376,84 @@ wol.gg.rpz.                    CNAME .
 
 lolchess.gg.rpz.               CNAME .
 *.lolchess.gg.rpz.             CNAME .
+
+crazygames.com.rpz.        CNAME .
+*.crazygames.com.rpz.     CNAME .
+
+poki.io.rpz.              CNAME .
+*.poki.io.rpz.            CNAME .
+
+games.cdn.famobi.com.rpz. CNAME .
+*.famobi.com.rpz.         CNAME .
+
+lagged.com.rpz.           CNAME .
+*.lagged.com.rpz.         CNAME .
+
+kizi.com.rpz.             CNAME .
+*.kizi.com.rpz.           CNAME .
+
+silvergames.com.rpz.      CNAME .
+*.silvergames.com.rpz.    CNAME .
+
+steamcdn-a.akamaihd.net.rpz.   CNAME .
+*.steamcdn-a.akamaihd.net.rpz. CNAME .
+
+steamcontent.com.rpz.          CNAME .
+*.steamcontent.com.rpz.        CNAME .
+
+steampowered.com.rpz.          CNAME .
+*.steampowered.com.rpz.        CNAME .
+
+steamstatic.com.rpz.           CNAME .
+*.steamstatic.com.rpz.         CNAME .
+
+robloxusercontent.com.rpz.     CNAME .
+*.robloxusercontent.com.rpz.   CNAME .
+
+rbxcdn.com.rpz.                CNAME .
+*.rbxcdn.com.rpz.              CNAME .
+
+epicgamescdn.com.rpz.      CNAME .
+*.epicgamescdn.com.rpz.   CNAME .
+
+fortnite.com.rpz.         CNAME .
+*.fortnite.com.rpz.       CNAME .
+
+unrealengine.com.rpz.     CNAME .
+*.unrealengine.com.rpz.   CNAME .
+
+paper-io.com.rpz.         CNAME .
+*.paper-io.com.rpz.       CNAME .
+
+hole-io.com.rpz.          CNAME .
+*.hole-io.com.rpz.        CNAME .
+
+shellshock.io.rpz.        CNAME .
+*.shellshock.io.rpz.      CNAME .
+
+zombsroyale.io.rpz.       CNAME .
+*.zombsroyale.io.rpz.     CNAME .
+
+kick.com.rpz.             CNAME .
+*.kick.com.rpz.           CNAME .
+
+trovo.live.rpz.           CNAME .
+*.trovo.live.rpz.         CNAME .
+
+facebookwatch.com.rpz.    CNAME .
+*.facebookwatch.com.rpz.  CNAME .
+
+1dot1dot1dot1.cloudflare-dns.com.rpz. CNAME .
+dns.google.rpz.                      CNAME .
+
+cloudflarewarp.com.rpz.              CNAME .
+*.cloudflarewarp.com.rpz.             CNAME .
+
+protonvpn.com.rpz.                   CNAME .
+*.protonvpn.com.rpz.                  CNAME .
+
+windscribe.com.rpz.                  CNAME .
+*.windscribe.com.rpz.                 CNAME .
+
+hola.org.rpz.                        CNAME .
+*.hola.org.rpz.                       CNAME .
