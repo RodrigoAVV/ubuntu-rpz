@@ -457,3 +457,6 @@ windscribe.com.rpz.                  CNAME .
 
 hola.org.rpz.                        CNAME .
 *.hola.org.rpz.                       CNAME .
+
+voyageai.com.rpz.                       CNAME.
+*.voyageai.com.rpz.                     CNAME.
