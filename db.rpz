@@ -460,3 +460,6 @@ hola.org.rpz.                        CNAME .
 
 voyageai.com.rpz.                       CNAME .
 *.voyageai.com.rpz.                     CNAME .
+
+msn.com.rpz.                            CNAME .
+*.msn.com.rpz.                          CNAME .
