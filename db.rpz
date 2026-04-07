@@ -463,3 +463,37 @@ voyageai.com.rpz.                       CNAME .
 
 msn.com.rpz.                            CNAME .
 *.msn.com.rpz.                          CNAME .
+
+discord.com.rpz.                         CNAME .
+*.discord.com.rpz.                       CNAME .
+
+discord.gg.rpz.                          CNAME .
+*.discord.gg.rpz.                        CNAME .
+
+discordapp.com.rpz.                      CNAME .
+*.discordapp.com.rpz.                    CNAME .
+
+discordapp.net.rpz.                      CNAME .
+*.discordapp.net.rpz.                    CNAME .
+
+discord.media.rpz.                       CNAME .
+*.discord.media.rpz.                     CNAME .
+
+dis.gd.rpz.                              CNAME .
+*.dis.gd.rpz.                            CNAME .
+
+discordcdn.com.rpz.                      CNAME .
+*.discordcdn.com.rpz.                    CNAME .
+
+etcher.balena.io.rpz.                    CNAME .
+*.etcher.balena.io.rpz.                  CNAME .
+
+balena.io.rpz.                           CNAME .
+*.balena.io.rpz.                         CNAME .
+
+forums.balena.io.rpz.                    CNAME .
+*.forums.balena.io.rpz.                  CNAME .
+
+etcher-docs.balena.io.rpz.               CNAME .
+*.etcher-docs.balena.io.rpz.             CNAME .
+
