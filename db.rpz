@@ -497,3 +497,8 @@ forums.balena.io.rpz.                    CNAME .
 etcher-docs.balena.io.rpz.               CNAME .
 *.etcher-docs.balena.io.rpz.             CNAME .
 
+eaglercraft.ir.rpz.                      CNAME .
+*.eaglercraft.ir.rpz.                    CNAME .
+
+classicjoy.games.rpz.                    CNAME .
+*.classicjoy.games.rpz.                  CNAME .
