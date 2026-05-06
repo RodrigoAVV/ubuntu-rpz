@@ -502,3 +502,6 @@ eaglercraft.ir.rpz.                      CNAME .
 
 classicjoy.games.rpz.                    CNAME .
 *.classicjoy.games.rpz.                  CNAME .
+
+zapgames.io.rpz.                         CNAME .
+*.zapgames.io.rpz.                       CNAME .
