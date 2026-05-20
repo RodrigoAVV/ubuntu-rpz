@@ -505,3 +505,6 @@ classicjoy.games.rpz.                    CNAME .
 
 zapgames.io.rpz.                         CNAME .
 *.zapgames.io.rpz.                       CNAME .
+
+bloxd.io.rpz.                            CNAME .
+*.bloxd.io.rpz.                          CNAME .
