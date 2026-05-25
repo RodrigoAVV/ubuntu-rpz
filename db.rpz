@@ -1,6 +1,6 @@
 $TTL 1h
 @   IN  SOA localhost. root.localhost. (
-        2026032522  ; serial
+        2026050501  ; serial
         1h          ; refresh
         15m         ; retry
         30d         ; expire
@@ -499,6 +499,8 @@ etcher-docs.balena.io.rpz.               CNAME .
 
 eaglercraft.ir.rpz.                      CNAME .
 *.eaglercraft.ir.rpz.                    CNAME .
+www.eaglercraft.ir.rpz.                  CNAME .
+play.eaglercraft.ir.rpz.                 CNAME .
 
 classicjoy.games.rpz.                    CNAME .
 *.classicjoy.games.rpz.                  CNAME .
