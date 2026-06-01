@@ -510,3 +510,27 @@ zapgames.io.rpz.                         CNAME .
 
 bloxd.io.rpz.                            CNAME .
 *.bloxd.io.rpz.                          CNAME .
+
+krypticmc.net.rpz.                       CNAME .
+*krypticmc.net.rpz.                      CNAME .
+
+play.webmc.fun.rpz.                      CNAME .
+*play.webmc.fun.rpz.                     CNAME .
+
+wanderwoodsmp.com.rpz.                   CNAME .
+*wanderwoodsmp.com.rpz.                  CNAME .
+
+topeaglerservers.com.rpz.                CNAME .
+*topeaglerservers.com.rpz.               CNAME .
+
+webosumania.com.rpz.                     CNAME .
+*webosumania.com.rpz.                    CNAME .
+
+webosumania.hectickiwi.workers.dev.rpz.             CNAME .
+*webosumania.hectickiwi.workers.dev.rpz.            CNAME .
+
+
+
+
+
+
