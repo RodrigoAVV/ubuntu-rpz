@@ -512,7 +512,7 @@ bloxd.io.rpz.                            CNAME .
 *.bloxd.io.rpz.                          CNAME .
 
 krypticmc.net.rpz.                       CNAME .
-*krypticmc.net.rpz.                      CNAME .
+*.krypticmc.net.rpz.                      CNAME .
 
 play.webmc.fun.rpz.                      CNAME .
 *play.webmc.fun.rpz.                     CNAME .
@@ -528,6 +528,33 @@ webosumania.com.rpz.                     CNAME .
 
 webosumania.hectickiwi.workers.dev.rpz.             CNAME .
 *webosumania.hectickiwi.workers.dev.rpz.            CNAME .
+
+arch.mc.rpz.                     CNAME .
+*.arch.mc.rpz.                   CNAME .
+
+ethereal.mov.rpz.                CNAME .
+*.ethereal.mov.rpz.              CNAME .
+
+extremecraft.net.rpz.            CNAME .
+*.extremecraft.net.rpz.          CNAME .
+
+universocraft.com.rpz.           CNAME .
+*.universocraft.com.rpz.         CNAME .
+
+universocraf.com.rpz.            CNAME .
+*.universocraf.com.rpz.          CNAME .
+
+hypixel.net.rpz.                 CNAME .
+*.hypixel.net.rpz.               CNAME .
+
+aternos.me.rpz.                  CNAME .
+*.aternos.me.rpz.                CNAME .
+
+hotgames.io.rpz.                 CNAME .
+*.hotgames.io.rpz.               CNAME .
+
+gamecollections.me.rpz.          CNAME .
+*.gamecollections.me.rpz.        CNAME .
 
 
 
