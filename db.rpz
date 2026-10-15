@@ -556,14 +556,14 @@ hotgames.io.rpz.                 CNAME .
 gamecollections.me.rpz.          CNAME .
 *.gamecollections.me.rpz.        CNAME .
 
-playhop.com.                 CNAME .
-*.playhop.com.               CNAME .
+playhop.com.rpz.                 CNAME .
+*.playhop.com.rpz.               CNAME .
 
-juegos.games.                   CNAME .
-*.juegos.games.                 CNAME .
+juegos.games.rpz.                CNAME .
+*.juegos.games.rpz.              CNAME .
 
-xbox.com.                 CNAME .
-*.xbox.com.               CNAME .
+xbox.com.rpz.                    CNAME .
+*.xbox.com.rpz.                  CNAME .
 
-todojuegos.cl.                  CNAME .
-*.xbox.com.               CNAME .
+todojuegos.cl.rpz.               CNAME .
+*.xbox.com.rpz.                  CNAME .
