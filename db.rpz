@@ -130,20 +130,8 @@ newgrounds.com.rpz.            CNAME .
 nitrome.com.rpz.               CNAME .
 *.nitrome.com.rpz.             CNAME .
 
-netflix.com.rpz.               CNAME .
-*.netflix.com.rpz.             CNAME .
-
 discord.com.rpz.               CNAME .
 *.discord.com.rpz.             CNAME .
-
-tiktok.com.rpz.                CNAME .
-*.tiktok.com.rpz.              CNAME .
-
-facebook.com.rpz.              CNAME .
-*.facebook.com.rpz.            CNAME .
-
-instagram.com.rpz.             CNAME .
-*.instagram.com.rpz.           CNAME .
 
 steamcommunity.com.rpz.        CNAME .
 *.steamcommunity.com.rpz.      CNAME .
@@ -187,14 +175,8 @@ thepiratebay.org.rpz.          CNAME .
 rutracker.org.rpz.             CNAME .
 *.rutracker.org.rpz.           CNAME .
 
-twitter.com.rpz.               CNAME .
-*.twitter.com.rpz.             CNAME .
-
 reddit.com.rpz.                CNAME .
 *.reddit.com.rpz.              CNAME .
-
-telegram.org.rpz.              CNAME .
-*.telegram.org.rpz.            CNAME .
 
 crunchyroll.com.rpz.           CNAME .
 *.crunchyroll.com.rpz.         CNAME .
@@ -298,7 +280,6 @@ minecraftmods.com.rpz.         CNAME .
 minecraft-resourcepacks.com.rpz. CNAME .
 *.minecraft-resourcepacks.com.rpz. CNAME .
 
-; Servidores pirata de Minecraft
 minecrafteo.com.rpz.           CNAME .
 *.minecrafteo.com.rpz.         CNAME .
 
@@ -499,6 +480,7 @@ etcher-docs.balena.io.rpz.               CNAME .
 
 eaglercraft.ir.rpz.                      CNAME .
 *.eaglercraft.ir.rpz.                    CNAME .
+
 www.eaglercraft.ir.rpz.                  CNAME .
 play.eaglercraft.ir.rpz.                 CNAME .
 
