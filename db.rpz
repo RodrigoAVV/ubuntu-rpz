@@ -550,3 +550,5 @@ xbox.com.rpz.                    CNAME .
 todojuegos.cl.rpz.               CNAME .
 *.todojuegos.cl.rpz.             CNAME .
 
+pokesurvivor.io.rpz.             CNAME .
+*.pokesurvivor.io.rpz.           CNAME .
